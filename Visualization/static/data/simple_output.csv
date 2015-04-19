@@ -1,0 +1,148 @@
+name,mean,percent_growth,rent_growth_rate
+Western Governors University,26938,0.231724701,0.041334721
+University of Arkansas,16995.5,0.069865553,0.08159919
+Texas State University,23989.5,0.044019258,0.068028302
+Georgia Gwinnett College,5756.5,0.168678885,0.022483732
+California State University-Los Angeles,14745.75,0.065517183,0.036382665
+Drexel University,12692.5,0.067000197,0.044262205
+California State Polytechnic University-Pomona,17252,0.048829121,0.031066944
+Bethel University,3555.75,0.188961541,0.015258811
+California State University-East Bay,9643.25,0.064843284,0.056104104
+Keiser University-Ft Lauderdale,11025,0.045931973,0.043860788
+San Francisco State University,21724.75,0.021353525,0.092368139
+California State University-Channel Islands,3638.5,0.123732307,0.026337493
+Sam Houston State University,12731,0.030508208,0.051584216
+Chapman University,5238.5,0.068607426,0.043653153
+University of Colorado Colorado Springs,6362,0.056208739,0.023476739
+University of Oregon,18574.25,0.017901127,0.02395743
+Texas A & M University-Kingsville,5993.25,0.055045259,0.03667311
+CUNY New York City College of Technology,9872.25,0.032667325,0.038792467
+University of Miami,10022.25,0.031300357,0.079266791
+Texas Woman's University,6200.25,0.048627071,0.047992249
+University of Central Missouri,7976.25,0.03413885,0.032184107
+CUNY Hunter College,11568.5,0.022301941,0.036797584
+The University of Texas at Arlington,15802.75,0.015623863,0.030651046
+Mercy College,5342.75,0.039137148,0.031100262
+University of the Incarnate Word,4098.5,0.043284128,0.059803946
+Colorado School of Mines,3832.25,0.045952117,0.08145883
+Case Western Reserve University,4192,0.040410305,0.034112462
+Coastal Carolina University,7834,0.019734491,0.043362248
+Delaware State University,3389,0.044850988,0.009238339
+Valparaiso University,2844.5,0.052241167,0.031010848
+Eastern Michigan University,13221,0.011224567,0.015673107
+Pratt Institute-Main,3005.5,0.049376144,0.067691295
+University of Chicago,5431.75,0.027155153,0.01843288
+Columbia University in the City of New York,7164.5,0.020043269,0.091656514
+CUNY Brooklyn College,9286.25,0.01502221,0.080378415
+Columbia Basin College,3486.25,0.039784869,0.005351806
+CUNY John Jay College of Criminal Justice,10157.5,0.013467881,0.025506135
+University of Central Oklahoma,10889.5,0.012176868,0.051479564
+Miami University-Oxford,14701.25,0.0088904,0.08395399
+Marist College,4724.25,0.026903741,-0.005506886
+Lee University,3690.5,0.03083593,0.033633719
+College of Staten Island CUNY,9710.5,0.011575099,0.062795878
+Portland State University,14504.75,0.00765956,0.079522401
+CUNY Bernard M Baruch College,10338.25,0.008947356,0.085836269
+Touro College,5758.25,-0.060139799,0.085836269
+Illinois Institute of Technology,2568,0.035903427,0.047537827
+Loyola University Chicago,9104.25,0.008336766,0.055443471
+Harding University,4015,0.015840598,0.052609955
+Bloomsburg University of Pennsylvania,8685.25,0.006850695,0.03478394
+Butler University,3870.25,0.014340159,0.033162472
+North Central College,2522.75,0.021841245,0.034330693
+Hobart William Smith Colleges,2244.25,0.023660466,0.030583243
+Wake Forest University,4703.25,0.011077446,0.039131925
+University of New Mexico-Main Campus,17038,0.002958094,0.011736146
+Wilmington University,3477.5,0.01426312,0.01878417
+Lehigh University,4804.75,0.00897029,0.022257992
+The College of Wooster,2014.25,0.021198957,0.04359029
+St Lawrence University,2351.5,0.014033596,0.018650782
+University of Missouri-Kansas City,6825.25,0.003677521,0.039835081
+Georgia College and State University,5180,0.004362934,0.012263538
+Flagler College-St Augustine,2740.75,0.007771595,0.033845005
+Carroll University,2754.5,0.007333454,0.028406981
+Palm Beach Atlantic University,2264,0.008038869,0.052974424
+Seattle Central College,4175.5,0.002299126,0.072868184
+Calvin College,3779.25,0.002143282,0.010062477
+Pittsburg State University,5673,0.001304424,0.040314178
+Tiffin University,2399.75,0.001958537,0.05223889
+North Carolina Central University,5405.5,-0.000406993,0.031693007
+Colorado College,2014,-0.00347567,0.042542041
+College of Saint Benedict,2032.75,-0.003591194,0.026758706
+Eastern Oregon University,2214.75,-0.004740941,0.050422764
+Messiah College,2720.75,-0.005035376,0.082271085
+CUNY City College,9415.75,-0.001539973,0.038031036
+Skidmore College,2651.5,-0.005883462,0.058115337
+Oberlin College,2888.25,-0.005505064,0.000917517
+Southern Arkansas University Main Campus,2491.25,-0.007104867,0.006917614
+Muhlenberg College,2334,-0.007797772,0.020024508
+Westminster College,2222.25,-0.00877489,0.075382894
+Shepherd University,3403.25,-0.006317491,0.053887464
+Saint Xavier University,2463.5,-0.010066978,0.041278734
+Southern Oregon University,3740.25,-0.006817726,0.039299413
+SUNY College at Oswego,6936,-0.003806228,0.021352392
+Arkansas State University-Main Campus,7739.75,-0.004044058,0.051936355
+Francis Marion University,3388,-0.0094451,0.029145144
+University of Northwestern Ohio,3675.25,-0.009332698,0.016376145
+Otterbein University,2267.25,-0.016363436,0.043849058
+University of Alaska Anchorage,7838.25,-0.00516697,0.023226428
+Saint Johns River State College,2346.5,-0.018069465,0.004692181
+Bethel University,2726,-0.015774028,0.033434752
+SUNY College of Agriculture and Technology at Cobleskill,2341,-0.018539086,0.018013511
+University of South Carolina-Aiken,2463,-0.017783191,-0.026990525
+University of Illinois at Chicago,15457.25,-0.003150625,0.061754596
+McNeese State University,6096,-0.008366142,0.013967046
+University of Wisconsin-Stout,6923,-0.008435649,-0.018049549
+Hawaii Pacific University,3834.5,-0.01596036,0.031344443
+Shawnee State University,3808.25,-0.01614915,0.04559431
+Gulf Coast State College,2339.5,-0.026415901,0.013480571
+University of Wisconsin-Oshkosh,9336,-0.007669237,-0.069120126
+Miami University-Hamilton,2606.25,-0.028201439,0.046415767
+Stephen F Austin State University,9541.75,-0.008268923,0.019962379
+Baker College of Allen Park,2195,-0.037813212,0.039181597
+Johnson & Wales University-Charlotte,2420.5,-0.037926048,0.051471302
+Bemidji State University,3636.75,-0.026424692,0.038712324
+Mansfield University of Pennsylvania,2607.5,-0.03873442,0.024924177
+Ohio State University-Newark Campus,2035.75,-0.050448238,0.008334432
+University of Arkansas at Little Rock,5744.25,-0.01840101,0.008899673
+Buena Vista University,2088.5,-0.051041417,0.075112597
+East Georgia State College,2403,-0.045276737,-0.007070276
+Lincoln University,2041.5,-0.054861621,-0.012424486
+University of the District of Columbia,2120.25,-0.054663365,0.004703138
+Lamar University,6907.75,-0.016980927,-0.02962752
+Texas Southern University,5658.25,-0.021119604,0.056923764
+Jacksonville State University,6034.75,-0.020133394,-0.013975326
+CUNY Medgar Evers College,4381,-0.028121433,0.129803783
+St Catherine University,2412.5,-0.051316062,0.055205565
+Minnesota State University-Mankato,11599.5,-0.010845295,0.045958077
+Morrisville State College,2819,-0.044909542,0.020138542
+Morehouse College,2232.5,-0.057961926,0.01192838
+Southern Utah University,5513,-0.023798295,-0.008089936
+Northern Michigan University,7628.75,-0.022166148,-0.007993196
+Indiana University-Southeast,3910.5,-0.044291011,0.035278362
+Shaw University,2004.75,-0.087043272,0.044178249
+University of Minnesota-Duluth,9287.75,-0.018938925,-0.021760034
+Northwestern Michigan College,2215,-0.092641084,0.001297013
+Albany State University,3375,-0.062518519,-0.089662517
+College of Central Florida,3410,-0.062697947,0.032430316
+University of Louisiana at Lafayette,12685.5,-0.01787868,0.032311122
+Elizabeth City State University,2526.25,-0.091954478,-0.001649305
+University of Arkansas at Pine Bluff,2642.25,-0.092307692,0.003903147
+West Virginia University at Parkersburg,2512.5,-0.106348259,-0.010911151
+University of Southern Indiana,7909.25,-0.034832633,-0.001313042
+State College of Florida-Manatee-Sarasota,4791.75,-0.062628476,0.065685115
+Clarion University of Pennsylvania,4818,-0.06430054,-0.014503665
+Gordon State College,3096,-0.100710594,0.022366257
+Vincennes University,6470,-0.048655332,0.019958979
+The University of Texas at Brownsville,6333.75,-0.051422933,-0.030990422
+CUNY Queens College,11328,-0.029731638,0.062657953
+Baker College of Muskegon,3157.75,-0.12771752,-0.057268672
+Robert Morris University Illinois,3263.25,-0.123956179,0.068870685
+Florida State College at Jacksonville,9953.75,-0.041501947,0.006073713
+Eastern Florida State College,6548.75,-0.063477763,0.040695545
+Broward College,13649,-0.032354019,0.067774232
+Baker College of Clinton Township,2960.5,-0.149839554,0.022010338
+Wayne State University,12790.5,-0.034853993,-0.003140956
+Valencia College,17310.75,-0.029351703,0.041844008
+Eastern Illinois University,8195.25,-0.067758763,0.003588769
+Daytona State College,7413.25,-0.108521903,0.043672325

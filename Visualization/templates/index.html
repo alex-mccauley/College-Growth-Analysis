@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!-- Alex McCauley, April 2015: 
+	Modification of index.html from yelp data example for college enrollment visualization.  
+	Original Source: 
+	https://becomingadatascientist.wordpress.com/tag/crossfilter-js/ -->
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0' name='viewport'>
+<title>Alex McCauley: College Analysis</title>
+
+<script src="./static/js/d3.js" type='text/javascript'></script> 
+<script src='./static/js/crossfilter.js' type='text/javascript'></script>
+<script src='./static/js/dc.js' type='text/javascript'></script>
+<script src='./static/js/jquery-1.9.1.min.js' type='text/javascript'></script>
+<script src='./static/js/bootstrap.min.js' type='text/javascript'></script>
+
+
+<link href='./static/stylesheets/bootstrap.min.css' rel='stylesheet' type='text/css'>
+<link href='./static/stylesheets/dc.css' rel='stylesheet' type='text/css'>
+<style type="text/css">
+body { 
+    padding-top: 40px; 
+}
+.span2, .span4, .span6, .span8, .span12, .container {
+	border:1px solid #dddddd;
+}
+.span4{
+	margin-left:-20px;
+}
+</style>
+<script src='./static/simple_vis.js' type='text/javascript'></script>
+</head>
+
+<body>
+	<div class='navbar navbar-fixed-top'>
+		<div class='navbar-inner'>
+			<div class='container'>
+				<a class="brand">Alex McCauley</a>
+			</div>
+		</div>
+	</div>
+
+	<div class='container' id='main-container'>
+		<div class='content'>
+			<div class='container' style='font: 10px sans-serif;'>
+				<h3>College growth analysis</h3>
+				<div class='row-fluid'>
+					<div class='remaining-graphs span12'>
+						<div class='row-fluid'>							
+							<div class='pie-graph span12' id='dc-bar-chart'>
+								<h4>Size of enrollments</h4>
+							</div>
+						</div>
+						<div class='row-fluid'>
+							<div class='bubble-graph span12' id='dc-bubble-graph'> 
+								<h4>Annual enrollment growth (x-axis), Annual rent growth (y-axis), Number of Students' (Size)</h4>
+							</div>
+						</div>
+						<div class='row-fluid'>
+							<div class='pie-graph span4' id='dc-pie-graph'>
+								<h4>Breakdown of degree types awarded</h4>
+							</div>
+							<div class='bar-graph span4' id='dc-volume-chart'>
+								<h4>Rent / sqft by year</h4>
+							</div>
+							<div class='line-graph span4' id='dc-line-chart'>
+								<h4>Enrollment by year</h4>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	<div id='footer'>
+		<div class='container'><footer class='text-center'></footer>
+		</div>
+	</div>
+</body>
+</html>
